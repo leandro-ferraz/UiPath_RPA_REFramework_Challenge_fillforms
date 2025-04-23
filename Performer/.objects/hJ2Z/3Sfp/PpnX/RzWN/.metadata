@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Root",
+  "Type": "Element",
+  "TaxonomyType": "Pagination",
+  "Id": "RzWNtPJYvkyFHt12GoAW4g",
+  "Reference": "B8B-hTcvtkOYGZVQQq17fg/RzWNtPJYvkyFHt12GoAW4g",
+  "ParentRef": "B8B-hTcvtkOYGZVQQq17fg/PpnX5_1UyESdtRIopzql2g",
+  "Created": "2025-04-23T17:35:57.2402707Z",
+  "Updated": "2025-04-23T17:35:57.2402707Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

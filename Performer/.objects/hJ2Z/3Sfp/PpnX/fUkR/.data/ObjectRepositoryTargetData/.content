@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sUeIZpt27EmA9MQ0ZkdEIQ" Reference="B8B-hTcvtkOYGZVQQq17fg/fUkRUsaB1UGb0Uui5S_R_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="584, 242, 842, 390" DesignTimeScaleFactor="1" ElementType="Container" FullSelectorArgument="&lt;webctrl tag='FORM' /&gt;" Guid="4c076268-84bb-456f-9b81-7336a9cd7f4d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="49dfcebbbcefb05f3d8dee193b757af2.png" xmlns="">0gJj_EWfX80eKD7W5ogdH0g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

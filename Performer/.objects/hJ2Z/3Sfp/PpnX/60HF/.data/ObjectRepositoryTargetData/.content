@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PnD0zalp6k2r9DrcoffUqw" Reference="B8B-hTcvtkOYGZVQQq17fg/60HFw8EK9UiB76jzqpnkKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="beb54273-379a-4ddc-af9a-a19302588e9e" DesignTimeRectangle="596, 265, 398, 46" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="44dd3cd0-9de7-46cb-9c16-487570ab22be" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="beb54273-379a-4ddc-af9a-a19302588e9e" DesignTimeRectangle="596, 245, 63, 17" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='LABEL' aaname='Last Name' /&gt;" Guid="a8570a9d-ed14-4eeb-82d8-ca9ec06f5e18" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4007d4e8e3aee7e589e6c657c3a88cc1.png" xmlns="">0XfzCgxHyY0WI9kbQ-tTfIw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
