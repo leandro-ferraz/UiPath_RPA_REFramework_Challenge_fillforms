@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Button 'Round *'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "JJsBfPN_q0uNL6ZMz8Lv5w",
+  "Reference": "B8B-hTcvtkOYGZVQQq17fg/JJsBfPN_q0uNL6ZMz8Lv5w",
+  "ParentRef": "B8B-hTcvtkOYGZVQQq17fg/PpnX5_1UyESdtRIopzql2g",
+  "Created": "2025-04-23T16:37:43.7042221Z",
+  "Updated": "2025-04-23T16:47:27.3969908Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
