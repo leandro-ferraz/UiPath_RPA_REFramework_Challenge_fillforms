@@ -1,6 +1,5 @@
-content = """
 [![UiPath Studio](https://img.shields.io/badge/UiPath%20Studio-%E2%89%A52023.4-blue)](https://docs.uipath.com/)
-[![License](https://img.shields.io/github/license/your-org/RPAChallenge_REFramework)](LICENSE)
+[![License](https://img.shields.io/github/license/leandro-ferraz/UiPath_RPA_REFramework_Challenge_fillforms)](LICENSE)
 
 # RPA Challenge — UiPath REFramework (Dispatcher & Performer)
 
@@ -40,7 +39,7 @@ This queue-centric design decouples data collection from processing, so you can 
 ## Features
 - ⚙️ **REFramework best practices** – state machine, robust logging, retries and recovery.
 - 🧹 **Dispatcher ↔ Performer separation** – queue-driven, idempotent and scalable.
-- 🔒 **Assets** – data stored in Assets of orchestrator for use in both dispatcher and performer. No credential was needed in this project, but it's a interesting feature able to be used.
+- 🔒 **Assets** – Centralised values stored as UiPath Orchestrator Assets are shared by both the Dispatcher and the Performer.
 - 🖼️ **Automatic screenshots** on exceptions, saved to `Exceptions_Screenshots` in case of system exceptions.
 - 📴 **Environment cleanup** – configurable `AppsToKill` list for tidy bot exits.
 - 🧪 **Unit-test ready** – sample tests in each project’s `Tests/` folder.
@@ -58,8 +57,9 @@ This queue-centric design decouples data collection from processing, so you can 
 
 ## Quick Start
 1. **Clone** the repository and open the *Dispatcher* or *Performer* folder in UiPath Studio.  
+    * git clone https://github.com/leandro-ferraz/UiPath_RPA_REFramework_Challenge_fillforms
 2. **Adjust** the Excel config (`Data/Config_Dispatcher.xlsx` and `Data/Config_Performer.xlsx`) to match your environment.  
-3. **Create** he asset in your project’s Orchestrator folder.
+3. **Create** the asset in your project’s Orchestrator folder.
 4. **Publish** each process to Orchestrator and start a job:  
    * Run **Dispatcher** once to populate the queue.  
    * Launch **Performer** (unattended/trigger) to work through the items.
